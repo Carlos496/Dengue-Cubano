@@ -1,4 +1,8 @@
 # Dengue-Cubano
+
+   git clone https://github.com/Carlos496/proyectos_prolog.git
+   cd Dengue-Cubano 
+   
 % Las Reglas
 gripe(X):- malestar(X), fiebre(X), tos(X),sec_nas(X).
 dengue(X):- malestar(X), fiebre(X), dolor_art_mus(X), rash(X).
