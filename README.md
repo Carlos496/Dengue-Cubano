@@ -33,3 +33,21 @@ pepe tiene fiebre? [s/n]: |: n.
  
 NO SE LOGRO UN DIAGNOSTICO.
 
+    git add diagnostico_dengue.pl
+git commit -m "Agregar programa de diagnóstico del dengue"
+git push origin master
+
+git checkout -b mejoras
+git add diagnostico_dengue.pl
+git commit -m "Agregar mejoras al diagnóstico"
+git push origin mejoras
+
+git checkout -b pruebas 
+git add diagnostico_dengue.pl
+git commit -m "Agregar pruebas al diagnóstico"
+git push origin pruebas
+
+git branch -a
+
+
+
