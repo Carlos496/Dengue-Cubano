@@ -1,6 +1,6 @@
 # Dengue-Cubano
 
-   git clone https://github.com/Carlos496/proyectos_prolog.git
+   git clone https://github.com/Carlos496/Dengue-Cubano.git
    cd Dengue-Cubano 
    
 % Las Reglas
